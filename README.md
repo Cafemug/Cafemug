@@ -9,7 +9,7 @@
 [![cafemug's github stats](https://github-readme-stats.vercel.app/api?username=cafemug&show_icons=true&hide_border=true)](https://github.com/cafemug)
 
 
-### 🌱 I’m currently learning Python, Go
+### 🌱 I’m currently learning Python, Go, nodejs
 ### 💬 About me : [https://cafemug.github.io/](https://cafemug.github.io/)
 ### 📫 How to reach me: hyanghope@gmail.com
 <!--
