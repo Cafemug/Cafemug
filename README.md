@@ -4,12 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabin-jeon/)](https://www.linkedin.com/in/gabin-jeon/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyanghope@gmail.com)](mailto:hyanghope@gmail.com)
 
-<a href="https://sourcerer.io/cafemug"><img src="https://img.shields.io/badge/C++-412%20commits-palevioletred.svg" alt=""></a>
-<a href="https://sourcerer.io/cafemug"><img src="https://img.shields.io/badge/Python-152%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/cafemug"><img src="https://img.shields.io/badge/JavaScript-145%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/cafemug"><img src="https://img.shields.io/badge/Go-110%20commits-skyblue.svg" alt=""></a>
-<a href="https://sourcerer.io/cafemug"><img src="https://img.shields.io/badge/Java-70%20commits-orange.svg" alt=""></a>
-
 [![Github Followers](https://img.shields.io/github/followers/cafemug?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/cafemug?tab=followers)
 
 [![cafemug's github stats](https://github-readme-stats.vercel.app/api?username=cafemug&show_icons=true&hide_border=true)](https://github.com/cafemug)
