@@ -8,6 +8,7 @@
 
 [![cafemug's github stats](https://github-readme-stats.vercel.app/api?username=cafemug&show_icons=true&hide_border=true)](https://github.com/cafemug)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cafemug)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌱 I’m currently learning Elixir, Python, Go, nodejs, kotlin
 ### 💬 About me : [https://cafemug.github.io/](https://cafemug.github.io/)
