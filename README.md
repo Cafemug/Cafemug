@@ -1,4 +1,4 @@
-### 👋 Hi! Welcome to Cafemug(coco.ball) Github profile!
+### 👋 Hi! Welcome to Cafemug Github profile!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcafemug)](https://github.com/cafemug)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabin-jeon/)](https://www.linkedin.com/in/gabin-jeon/)
