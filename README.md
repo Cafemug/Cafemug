@@ -5,7 +5,6 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabin-jeon/)](https://www.linkedin.com/in/gabin-jeon/) -->
 [![Github Followers](https://img.shields.io/github/followers/cafemug?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/cafemug?tab=followers)
 
-[![cafemug's github stats](https://github-readme-stats.vercel.app/api?username=cafemug&show_icons=true&hide_border=true)](https://github.com/cafemug)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cafemug)](https://github.com/ryo-ma/github-profile-trophy)
 
